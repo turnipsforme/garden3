@@ -1,3 +1,4 @@
+<img src="/assets/Stories%20as%20information%20conveyor%20belts%20%E2%80%A2%20Buttondown/0a7b5802-36a5-4cce-9b4f-838b9fb631ee.jpg" style="max-width: 300px;">
 
 _Abbey Bookshop, Paris_
 
