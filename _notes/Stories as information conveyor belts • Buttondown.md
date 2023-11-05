@@ -1,6 +1,6 @@
 <img src="/assets/Stories%20as%20information%20conveyor%20belts%20%E2%80%A2%20Buttondown/0a7b5802-36a5-4cce-9b4f-838b9fb631ee.jpg" style="max-width: 700px;">
 
-_Abbey Bookshop, Paris_
+<center><i>Abbey Bookshop, Paris</i></center>
 
 _Hi! Welcome to the second edition of my newsletter! The response to this has been WAY more positive than I expected, and I just wanted to say thanks for signing up - I hope you have a good time here:) Let's get on with this week's essay!_
 
