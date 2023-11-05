@@ -16,7 +16,7 @@ And that I think is just not what a good story is - more than lessons, advice, o
 
 ## So, how do we approach telling stories instead?
 
-![](/assets/Stories%20as%20information%20conveyor%20belts%20%E2%80%A2%20Buttondown/57c45b4c-d6c5-4231-ae93-06a2a823261f.png)
+<img src="/assets/Stories%20as%20information%20conveyor%20belts%20%E2%80%A2%20Buttondown/57c45b4c-d6c5-4231-ae93-06a2a823261f.png" style="max-width: 700px;">
 
 _Theater Camp (as recommended by Nicole)_
 
